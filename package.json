@@ -1,0 +1,25 @@
+{
+  "name": "webpack_tutorial",
+  "version": "1.0.0",
+  "description": "webpack basic conceot, setting, optimize and deployment ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ChuanjenWang/webpack_tutorial.git"
+  },
+  "keywords": [
+    "webpack"
+  ],
+  "author": "Spencer Wang",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ChuanjenWang/webpack_tutorial/issues"
+  },
+  "homepage": "https://github.com/ChuanjenWang/webpack_tutorial#readme",
+  "dependencies": {
+    "npm": "^6.1.0"
+  }
+}
