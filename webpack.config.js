@@ -11,7 +11,7 @@
             rules: [
                 {
                     use: "babel-loader",
-                    test: /\$/,
+                    test: /\.js$/,
                     exclude: /node_modules/
                 }
             ]
