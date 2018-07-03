@@ -9,14 +9,16 @@ module.exports = {
     module: {
         rules: [
             {
-                use: "babel-loader",
+                use: 'babel-loader',
                 test: /\.js$/,
                 exclude: /node_modules/
             },
             {
-                use:["style-loader","css-loader"],
+                use:['style-loader','css-loader'],
                 test: /\.css$/
             }
         ]
     }
 }
+
+
